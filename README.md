@@ -1,13 +1,13 @@
-// Ben Ceyhun
+### Ben Ceyhun
 
-/* Marmara Üniversitesi Bilgisayar Mühendisliği 3. sınıf öğrencisiyim. Bilgisayarın her alanına duyduğum merakı, akademik projelerim ve topluluk çalışmalarımla birleştiriyorum. */
+### Marmara Üniversitesi Bilgisayar Mühendisliği 3. sınıf öğrencisiyim. Bilgisayarın her alanına duyduğum merakı, akademik projelerim ve topluluk çalışmalarımla birleştiriyorum.
 
-// Araçlar
-// **Diller:** Java, C, Python, SQL
-// **Veritabanı:** MySQL, MS SQL Server
-// **Araçlar:** Git, GitHub, VS Code, Excel
+### Araçlar
+### **Diller:** Java, C, Python, SQL
+### **Veritabanı:** MySQL, MS SQL Server
+### **Araçlar:** Git, GitHub, VS Code, Excel
 
-// Neler Yapıyorum?
+### Neler Yapıyorum?
 - **MACSEC:** Kulübün yönetim kurulunda sekreter olarak görev alıyor, büyük ölçekli teknoloji etkinliklerini (MACTECH) koordine ediyorum.
 - **Gelişim:** Şu sıralar Java ve Nesne Yönelimli Programlama üzerine projeler geliştiriyor, aynı zamanda Almanca öğreniyorum.
 - **Saha Deneyimi:** Mühendislik vizyonumu, üretim ve operasyon süreçlerindeki çalışma disiplinimle destekliyorum.
