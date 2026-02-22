@@ -1,16 +1,20 @@
-## Hi there 👋
+// Ben Ceyhun
 
-<!--
-**matematikciceyhun/matematikciceyhun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+/* Marmara Üniversitesi Bilgisayar Mühendisliği 3. sınıf öğrencisiyim. Bilgisayarın her alanına duyduğum merakı, akademik projelerim ve topluluk çalışmalarımla birleştiriyorum. */
 
-Here are some ideas to get you started:
+// Araçlar
+// **Diller:** Java, C, Python, SQL
+// **Veritabanı:** MySQL, MS SQL Server
+// **Araçlar:** Git, GitHub, VS Code, Excel
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+// Neler Yapıyorum?
+- **MACSEC:** Kulübün yönetim kurulunda sekreter olarak görev alıyor, büyük ölçekli teknoloji etkinliklerini (MACTECH) koordine ediyorum.
+- **Gelişim:** Şu sıralar Java ve Nesne Yönelimli Programlama üzerine projeler geliştiriyor, aynı zamanda Almanca öğreniyorum.
+- **Saha Deneyimi:** Mühendislik vizyonumu, üretim ve operasyon süreçlerindeki çalışma disiplinimle destekliyorum.
+
+// GitHub İstatistiklerim
+![Ceyhun's GitHub stats](https://github-readme-stats.vercel.app/api?username=matematikciceyhun&show_icons=true&theme=radical)
+
+// Bana Ulaşın
+- [LinkedIn](https://www.linkedin.com/in/ceyhun-erer-993201328/)
+- [E-posta](mailto:ceyhunerer4@gmail.com)
